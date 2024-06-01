@@ -1,6 +1,6 @@
 ## Hi there 👋
-I make random shite mostly in HTML and JS
-&nbsp;
+- I make random shite mostly in HTML and JS
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scoilcax&size_weight=0.5&count_weight=0.5)
 
 <!--
