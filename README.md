@@ -1,7 +1,6 @@
 ## Hi there 👋
 I make random shite mostly in HTML and JS
-![image](https://github.com/scoilcax/scoilcax/assets/102550814/eec6a3ff-f7c4-4323-918a-f57c9a7e537e)
-![image](https://github.com/scoilcax/scoilcax/assets/102550814/2a7379c0-9c72-4190-98e0-721721c1e31f)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scoilcax&size_weight=0.5&count_weight=0.5)
 
 <!--
 **scoilcax/scoilcax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
